@@ -2,7 +2,7 @@
 
 **Software Engineer — Full Stack**
 
-Welcome to my personal GitHub repository! Think of this space as a living, markdown-based version of my CV — simple, open-source, and always evolving.
+Welcome to my personal GitHub repository! Think of this space as a living, markdown-based version .
 
 ---
 
@@ -15,48 +15,14 @@ I’m a full stack software engineer with a passion for building clean, efficien
 ## 🛠️ Tech Stack
 
 **Languages:**  
-JavaScript / TypeScript · Python · Java · HTML · CSS · SQL
-
-**Frameworks & Tools:**  
-React · Node.js · Express · Next.js · Django · Spring Boot  
-PostgreSQL · MongoDB · Docker · Git · CI/CD · REST · GraphQL
-
----
-
-## 💼 Experience
-
-- **Full Stack Engineer** – [Your Most Recent Company]  
-  _[Dates]_  
-  Worked on [brief description of your role and impact].
-
-- **Software Developer Intern** – [Previous Company]  
-  _[Dates]_  
-  [One-liner about what you did or learned.]
-
-_(Add more roles as needed, or leave this section out if your repo is just a link hub)_
+JavaScript / TypeScript · Go · HTML · CSS · SQL
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
-
----
-
-## 📁 Repo Purpose
-
-This repository serves as a personal hub — a place where you can:
-
-- Learn a bit about me 👨‍💻  
-- View a markdown-based CV 🧾  
-- Follow links to my work and profiles 🔗
-
----
-
-## 🧾 Bonus: Get My Resume
-
-You can download a full version of my resume [here](./Marko_Resume.pdf) *(optional – add your file to the repo!)*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/marko-rankovi%C4%87-055034b0/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/YOURUSERNAME](https://github.com/rasa-mrankovic))
 
 ---
 
