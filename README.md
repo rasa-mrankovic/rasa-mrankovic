@@ -2,7 +2,7 @@
 
 **Software Engineer — Full Stack**
 
-Welcome to my personal GitHub repository! Think of this space as a living, markdown-based version .
+Welcome to my personal GitHub repository! Think of this space as a living, markdown-based version of what i do.
 
 ---
 
