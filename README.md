@@ -15,6 +15,7 @@ Here to turn product requirements into solutions, ambiguities into a way forward
 ## 🛠️ Tech Stack
 
 Nowadays: JavaScript / TypeScript · Go · Postgres
+
 Early career: C/C++ · C#.NET 
 
 
