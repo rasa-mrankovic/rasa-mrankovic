@@ -8,15 +8,16 @@ Welcome to my personal GitHub repository! Think of this space as a living, markd
 
 ## 🧠 About Me
 
-I’m a full stack software engineer with a passion for building clean, efficient, and scalable applications. Whether it's frontend interfaces or backend systems, I enjoy diving into all layers of development and turning complex problems into elegant code.
+I’m a software engineer offering more than 10 years of experience in delivering software solutions. 
+Here to turn product requirements into solutions, ambiguities into a way forward, and visions into systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-JavaScript / TypeScript · Go · HTML · CSS · SQL
-
+Nowadays: JavaScript / TypeScript · Go · Postgres
+Early career: C/C++ · C#.NET 
 ---
 
 ## 📫 Connect With Me
