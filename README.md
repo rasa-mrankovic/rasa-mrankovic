@@ -17,6 +17,7 @@ Here to turn product requirements into solutions, ambiguities into a way forward
 
 Nowadays: JavaScript / TypeScript · Go · Postgres
 Early career: C/C++ · C#.NET 
+
 ---
 
 ## 📫 Connect With Me
