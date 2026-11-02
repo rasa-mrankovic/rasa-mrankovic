@@ -28,7 +28,7 @@ I work where product, architecture, and delivery meet: I take an ambiguous probl
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,go,rust" alt="TypeScript, JavaScript, Go, Rust" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" alt="React" /> |
 | **Backend & data** | <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> · Distributed systems |
-| **AI** | LLMs · AI agents · agentic developer tooling |
+| **AI** | LLMs · AI agents · agentic developer tooling<br/><img src="icons/ai-tools.svg" alt="Claude, OpenCode, Zed, OpenAI" /> |
 | **Foundations** | <img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="C, C++, C#" /> |
 
 ## Connect
