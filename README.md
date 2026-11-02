@@ -25,11 +25,11 @@ I work where product, architecture, and delivery meet: I take an ambiguous probl
 
 | | |
 |---|---|
-| **Languages** | TypeScript / JavaScript · Go · Rust |
-| **Frontend** | React |
-| **Backend & data** | Distributed systems · Postgres |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,go,rust" alt="TypeScript, JavaScript, Go, Rust" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react" alt="React" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> · Distributed systems |
 | **AI** | LLMs · AI agents · agentic developer tooling |
-| **Foundations** | C / C++ · C# / .NET |
+| **Foundations** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" alt="C, C++, C#, .NET" /> |
 
 ## Connect
 
