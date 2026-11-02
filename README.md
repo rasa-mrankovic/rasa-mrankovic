@@ -25,7 +25,7 @@ I work where product, architecture, and delivery meet: I take an ambiguous probl
 
 | | |
 |---|---|
-| **Languages** | TypeScript / JavaScript · Go |
+| **Languages** | TypeScript / JavaScript · Go · Rust |
 | **Frontend** | React |
 | **Backend & data** | Distributed systems · Postgres |
 | **AI** | LLMs · AI agents · agentic developer tooling |
