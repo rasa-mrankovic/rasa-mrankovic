@@ -29,7 +29,7 @@ I work where product, architecture, and delivery meet: I take an ambiguous probl
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react" alt="React" /> |
 | **Backend & data** | <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /> · Distributed systems |
 | **AI** | LLMs · AI agents · agentic developer tooling |
-| **Foundations** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" alt="C, C++, C#, .NET" /> |
+| **Foundations** | <img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="C, C++, C#" /> |
 
 ## Connect
 
